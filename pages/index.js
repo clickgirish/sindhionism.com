@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <a href="www.sindhionism.com" title="It all starts with a name!"><Header title="SINDHIONISM.COM" /></a>
-        <a href="www.sindhionism.org" title="It all starts with a name!"><Header title="SINDHIONISM.ORG" /></a>
-        <a href="www.sindhionism.co.in" title="It all starts with a name!"><Header title="SINDHIONISM.CO.IN" /></a>
+        <a href="https://sindhionism.com" title="It all starts with a name!"><Header title="SINDHIONISM.COM" /></a>
+        <a href="https://sindhionism.org" title="It all starts with a name!"><Header title="SINDHIONISM.ORG" /></a>
+        <a href="https://sindhionism.co.in" title="It all starts with a name!"><Header title="SINDHIONISM.CO.IN" /></a>
         <p className="description">
           Get each domain for just $2499! <br /><center> OR </center><br />Get a bundle deal for just $5499!
         </p>
