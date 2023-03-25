@@ -6,14 +6,14 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>SINDHIONISM.COM - IO Techno Labs</title>
+        <title>SINDHIONISM - IO Techno Labs</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
-        <Header title="SINDHIONISM.COM" />
-        <Header title="SINDHIONISM.ORG" />
-        <Header title="SINDHIONISM.CO.IN" />
+        <a href="sindhionism.com" title="It all starts with a name!"><Header title="SINDHIONISM.COM" /></a>
+        <a href="sindhionism.org" title="It all starts with a name!"><Header title="SINDHIONISM.ORG" /></a>
+        <a href="sindhionism.co.in" title="It all starts with a name!"><Header title="SINDHIONISM.CO.IN" /></a>
         <p className="description">
           Get each domain for just $2499! <br /><center> OR </center><br />Get a bundle deal for just $5499!
         </p>
